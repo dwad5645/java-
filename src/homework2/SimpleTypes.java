@@ -1,4 +1,5 @@
-import java.io.*;
+package homework2;
+
 public class SimpleTypes {
 public static void main(String args[]){
     byte b=055;
